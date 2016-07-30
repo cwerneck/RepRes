@@ -1,2 +1,2 @@
 # RepRes
-Reproducible Research
+Repo for the assignments of the Reproducible Research Course
